@@ -16,7 +16,7 @@ GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
 # Carrega o ID do criador como um número inteiro para comparação
 CREATOR_ID = int(os.getenv('CREATOR_ID')) if os.getenv('CREATOR_ID') else None 
 
-# --- Configurações da Bot e Intents (Obrigatório) ---
+# --- Configurações da Bot e Intents  ---
 # Essencial para ler o conteúdo das mensagens e menções
 intents = discord.Intents.default()
 intents.message_content = True 
@@ -57,7 +57,7 @@ def get_or_create_chat(channel_id):
         return None
         
     if channel_id not in chat_sessions:
-        # Configuração da IA (prompt de sistema e modelo)
+        # Configuração da IA 
         config = types.GenerateContentConfig(
             system_instruction=SYSTEM_PROMPT
         )
@@ -133,7 +133,7 @@ async def on_message(message: discord.Message):
         # 3. Processa a resposta da IA
         try:
             # Efeito de Digitação
-            # Damos prioridade (tempo de espera menor) se for o criador
+            # Damos prioridade se for o criador
             typing_time = 0.5 if is_creator else random.uniform(0.7, 1.5)
 
             async with message.channel.typing():
