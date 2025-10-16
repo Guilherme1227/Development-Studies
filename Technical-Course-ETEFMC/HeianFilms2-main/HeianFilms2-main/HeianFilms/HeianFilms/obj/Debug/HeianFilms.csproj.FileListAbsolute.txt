@@ -1,0 +1,12 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\mosca\HeianFilms\HeianFilms\HeianFilms\bin\Debug\HeianFilms.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\mosca\HeianFilms\HeianFilms\HeianFilms\bin\Debug\HeianFilms.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\mosca\HeianFilms\HeianFilms\HeianFilms\bin\Debug\HeianFilms.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\mosca\HeianFilms\HeianFilms\HeianFilms\obj\Debug\HeianFilms.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\mosca\HeianFilms\HeianFilms\HeianFilms\obj\Debug\HeianFilms.Form1.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\mosca\HeianFilms\HeianFilms\HeianFilms\obj\Debug\HeianFilms.Login.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\mosca\HeianFilms\HeianFilms\HeianFilms\obj\Debug\HeianFilms.Properties.Resources.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\mosca\HeianFilms\HeianFilms\HeianFilms\obj\Debug\HeianFilms.csproj.GenerateResource.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\mosca\HeianFilms\HeianFilms\HeianFilms\obj\Debug\HeianFilms.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\mosca\HeianFilms\HeianFilms\HeianFilms\obj\Debug\HeianFilms.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\mosca\HeianFilms\HeianFilms\HeianFilms\obj\Debug\HeianFilms.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\mosca\HeianFilms\HeianFilms\HeianFilms\obj\Debug\HeianFilms.Cadastro.resources

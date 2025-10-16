@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\HeianMovies\bin\Debug\HeianMovies.exe.config
+C:\Users\Aluno\source\repos\HeianMovies\bin\Debug\HeianMovies.exe
+C:\Users\Aluno\source\repos\HeianMovies\bin\Debug\HeianMovies.pdb
+C:\Users\Aluno\source\repos\HeianMovies\obj\Debug\HeianMovies.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\HeianMovies\obj\Debug\HeianMovies.HeianFilms.resources
+C:\Users\Aluno\source\repos\HeianMovies\obj\Debug\HeianMovies.Properties.Resources.resources
+C:\Users\Aluno\source\repos\HeianMovies\obj\Debug\HeianMovies.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\HeianMovies\obj\Debug\HeianMovies.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\HeianMovies\obj\Debug\HeianMovies.exe
+C:\Users\Aluno\source\repos\HeianMovies\obj\Debug\HeianMovies.pdb
+C:\Users\Aluno\source\repos\HeianMovies\obj\Debug\HeianMovies.Cadastro.resources
