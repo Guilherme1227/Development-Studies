@@ -1,4 +1,4 @@
-# 🧪 Labs & Courses | Estudos de Desenvolvimento
+# Labs & Courses | Estudos de Desenvolvimento
 
 Este repositório serve como meu laboratório pessoal, documentando minha evolução e aprofundamento em diversas áreas da programação. Todos os códigos aqui presentes são o resultado de exercícios e cursos, com foco na escrita de lógica própria e na aplicação imediata de conceitos de Engenharia de Software.
 
